@@ -31,8 +31,8 @@
 
 ###
 
-<div align="left">
-  <img height="" src="https://cdn.pixilart.com/photos/orginal/5153f667c6a59f0.gif"  />
+<div align="center">
+<br><img height="" src="https://cdn.pixilart.com/photos/orginal/5153f667c6a59f0.gif"  />
 </div>
 
 ###
