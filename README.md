@@ -2,13 +2,15 @@
 
 ###
 
-<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>*🧠Atualmente estou no terceiro periodo de Ciência da computação.<br><br>*🔭Em busca da minha primeira oportunidade de trabalho.</p>
+<img src="https://raw.githubusercontent.com/artgomesz/artgomesz/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artgomesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<h2 align="left">Sobre mim!!</h2>
+
+###
+
+<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>*🧠Atualmente estou no terceiro periodo de Ciência da computação.<br><br>*🔭Em busca da minha primeira oportunidade de trabalho.</p>
 
 ###
 
@@ -28,8 +30,8 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://images.squarespace-cdn.com/content/v1/604a3b7f8195a274403f26be/1648823674723-V2S5FOE72T6ECIBKVG97/1bitnecro+%285%29.gif?format=500w"  />
+<div align="left">
+  <img height="" src="https://cdn.pixilart.com/photos/orginal/5153f667c6a59f0.gif"  />
 </div>
 
 ###
