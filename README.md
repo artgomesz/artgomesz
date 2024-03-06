@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>🧠Atualmente estou no terceiro periodo de Ciência da computação.<br><br>🔭Em busca da minha primeira oportunidade de emprego.<br>
+<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por tecnologia .<br><br>🧠Atualmente estou no terceiro periodo de Ciência da computação.<br><br>🔭Em busca da minha primeira oportunidade de emprego.<br>
 <br>👨‍💻Atualmente estudando "java" & "SQL"</p>
 
 ###
