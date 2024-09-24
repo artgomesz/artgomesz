@@ -16,11 +16,11 @@
 
 ###
 
-<h2 align="left">Linguagens de programção</h2>
+<h2 align="center">Linguagens de programção</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
