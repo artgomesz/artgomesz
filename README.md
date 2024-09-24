@@ -3,16 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artgomesz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  
-###
-
-<h2 align="left">Sobre mim!!</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=artgomesz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por tecnologia.<br><br>🧠Atualmente estou no terceiro periodo de Ciência da computação.<br><br>🔭Em busca da minha primeira oportunidade de emprego.<br>
-<br>👨‍💻Atualmente estudando "java" & "SQL"</p>
+<h2 align="left">Sobre mim!</h2>
+
+###
+
+<p align="left">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>*🧠Atualmente estou no quarto periodo de Ciência da computação.<br><br>*🔭Em busca da minha primeira oportunidade de trabalho.</p>
 
 ###
 
@@ -21,18 +21,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
   <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
 </div>
 
 ###
 
 <div align="center">
-<br><img height="" src="https://cdn.pixilart.com/photos/orginal/5153f667c6a59f0.gif"  />
+  <img height="300" src="https://i.gifer.com/Mf08.gif"  />
 </div>
 
 ###
