@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>*🧠Atualmente estou no quarto periodo de Ciência da computação.<br><br>*🔭Em busca da minha primeira oportunidade de trabalho.</p>
+<p align="center">Olá👋,meu nome é Artur,sou um estudante de Ciência da computação apaixonado por técnologia .<br><br>*🧠Atualmente estou no quarto periodo de Ciência da computação.<br>
 
 ###
 
