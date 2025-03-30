@@ -1,8 +1,8 @@
-<h2 align="left">Hello world! 👋</h2>
+<h2 align="left">Olá! eu sou o Artur 👋</h2>
 
 ###
 
-<p align="left">*🧠 Atualmente no quarto semestre de Ciência da computação 🧠<br>*🍃 Focado no ecossistema Spring 🍃</p>
+<p align="left">*🧠 Atualmente no quinto semestre de Ciência da computação 🧠<br>*🍃 Focado no ecossistema Spring 🍃</p>
 
 ###
 
